@@ -15,6 +15,7 @@ public class ConfigurationTest implements CommandLineRunner{
 	//private List<String> prjm;
 	private Set<String> prjm;
 	private Department dept;
+	private String change;
 
 	public int getId() {
 		return id;
